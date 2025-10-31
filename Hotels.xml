@@ -94,7 +94,7 @@
 	</Hotel>
 	
 	<Hotel>
-		<Name>Omni Tempe Hotel at ASU</Name> 7 E University Dr, Tempe, AZ 85281
+		<Name>Omni Tempe Hotel at ASU</Name>
     
 		<Phone>602-794-8600</Phone>
 		<Phone>888-444-6664</Phone>
@@ -108,7 +108,7 @@
 	</Hotel>
 	
 	<Hotel>
-		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name> 4300 E Washington St, Phoenix, AZ 85034
+		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name>
     
 		<Phone>602-273-7778</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -133,7 +133,7 @@
 	</Hotel>
 	
 	<Hotel>
-		<Name>Central Phoenix hotel</Name> 402 W Van Buren St, Phoenix, AZ 85003
+		<Name>Central Phoenix hotel</Name>
     
 		<Phone>602-254-7247</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -146,3 +146,4 @@
 	</Hotel>
 	
 </Hotels>
+
