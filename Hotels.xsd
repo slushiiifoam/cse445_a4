@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns="http://venus.sod.asu.edu/WSRepository/xml"
@@ -33,4 +34,5 @@
 		<xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
 	</xsd:complexType>
 	
+
 </xsd:schema>
