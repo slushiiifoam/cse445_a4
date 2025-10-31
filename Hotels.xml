@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+	xmlns="http://venus.sod.asu.edu/WSRepository/xml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+    
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.3">
+		<Name>Rise Uptown Hotel</Name>
+		<Phone>480-536-8900</Phone>
+		<Phone>480-566-6522</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>400</Number>
+			<Street>W Camelback Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85013</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="3.5">
+		<Name>Red Roof PLUS+ Phoenix West</Name>
+		<Phone>602-325-9216</Phone>
+		<Phone>937-328-1601</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>5215</Number>
+			<Street>W Willetta St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85043</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.3">
+		<Name>Sentral Sol Modern</Name>
+		<Phone>844-962-1670</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>50</Number>
+			<Street>E Fillmore St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.3">
+		<Name>Hilton Phoenix Airport</Name>
+		<Phone>480-894-1600</Phone>
+		<Phone>800-445-8667</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2435</Number>
+			<Street>S 47th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.4">
+		<Name>Kimpton Hotel Palomar Phoenix</Name>
+		<Phone>602-253-6633</Phone>
+		<Phone>877-488-1908</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2</Number>
+			<Street>E Jefferson St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Renaissance Phoenix Downtown Hotel</Name>
+		<Phone>602-333-0000</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>100</Number>
+			<Street>N 1st St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Omni Tempe Hotel at ASU</Name> 7 E University Dr, Tempe, AZ 85281
+    
+		<Phone>602-794-8600</Phone>
+		<Phone>888-444-6664</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7</Number>
+			<Street>E University Dr</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name> 4300 E Washington St, Phoenix, AZ 85034
+    
+		<Phone>602-273-7778</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>4300</Number>
+			<Street>E Washington St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Sentral Alloy Midtown</Name>
+		<Phone>833-584-1129</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>3010</Number>
+			<Street>N 2nd St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85012</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Central Phoenix hotel</Name> 402 W Van Buren St, Phoenix, AZ 85003
+    
+		<Phone>602-254-7247</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>402</Number>
+			<Street>W Van Buren St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85003</Zip>
+		</Address>
+	</Hotel>
+	
+</Hotels>
