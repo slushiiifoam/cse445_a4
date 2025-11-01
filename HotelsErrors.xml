@@ -130,16 +130,16 @@
 	
 	<Hotel>
 		<Name>Central Phoenix hotel</Name>
+		<Phone>602-254-7247</Phone>
 		<Address NearestAirport="Sky Harbor">
-		    <Phone>602-254-7247</Phone>
 			<Number>402</Number>
 			<Street>W Van Buren St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85003</Zip>
-		</Address>
 	</Hotel>
 	
 </Hotels>
+
 
 
