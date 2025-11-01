@@ -30,6 +30,7 @@
 	
 	<Hotel Rating="3.5">
 		<Name>Red Roof PLUS+ Phoenix West</Name>
+		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Phone>602-325-9216</Phone>
 		<Phone>937-328-1601</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -38,10 +39,10 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85043</Zip>
+		</Address>
 	</Hotel>
 	
 	<Hotel Rating="4.3">
-		<Name>Sentral Sol Modern</Name>
 		<Name>Sentral Sol Modern</Name>
 		<Phone>844-962-1670</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -118,7 +119,6 @@
 	
 	<Hotel>
 		<Name>Sentral Alloy Midtown</Name>
-		<Phone>833-584-1129</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>3010</Number>
 			<Street>N 2nd St</Street>
@@ -131,15 +131,13 @@
 	<Hotel>
 		<Name>Central Phoenix hotel</Name>
 		<Address NearestAirport="Sky Harbor">
+		    <Phone>602-254-7247</Phone>
 			<Number>402</Number>
 			<Street>W Van Buren St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85003</Zip>
-		</Address>
 	</Hotel>
 	
 </Hotel>
-
-
 
