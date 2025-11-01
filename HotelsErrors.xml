@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels
+<Hotel
 	xmlns="http://venus.sod.asu.edu/WSRepository/xml">
     
 	<Hotel Rating="4.2">
@@ -29,7 +29,6 @@
 	</Hotel>
 	
 	<Hotel Rating="3.5">
-		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Phone>602-325-9216</Phone>
 		<Phone>937-328-1601</Phone>
@@ -107,6 +106,7 @@
 	
 	<Hotel>
 		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name>
+		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name>
 		<Phone>602-273-7778</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>4300</Number>
@@ -139,8 +139,7 @@
 			<Zip>85003</Zip>
 	</Hotel>
 	
-</Hotels>
-
+</Hotel>
 
 
 
