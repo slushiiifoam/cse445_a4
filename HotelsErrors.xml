@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel
-	xmlns="http://venus.sod.asu.edu/WSRepository/xml">
+<Hotel>
     
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
@@ -140,6 +139,7 @@
 	</Hotel>
 	
 </Hotel>
+
 
 
 
