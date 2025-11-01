@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel
+<Hotels
 	xmlns="http://venus.sod.asu.edu/WSRepository/xml">
     
 	<Hotel Rating="4.2">
@@ -137,7 +137,9 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85003</Zip>
+		</Address>
 	</Hotel>
 	
-</Hotel>
+</Hotels>
+
 
