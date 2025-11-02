@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel>
+<Hotels>
     
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
@@ -27,7 +27,7 @@
 		</Address>
 	</Hotel>
 	
-	<Hotel Rating="3.5">
+	<Hotels Rating="3.5">
 		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Phone>602-325-9216</Phone>
 		<Phone>937-328-1601</Phone>
@@ -38,7 +38,7 @@
 			<State>AZ</State>
 			<Zip>85043</Zip>
 		</Address>
-	</Hotel>
+	</Hotels>
 	
 	<Hotel Rating="4.3">
 		<Name>Sentral Sol Modern</Name>
@@ -136,10 +136,10 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85003</Zip>
-		</Address>
 	</Hotel>
 	
-</Hotel>
+</Hotels>
+
 
 
 
