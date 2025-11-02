@@ -28,7 +28,7 @@
 		</Address>
 	</Hotel>
 	
-	<Hotels Rating="3.5">
+	<Hotel Rating="3.5">
 		<Name>Red Roof PLUS+ Phoenix West</Name>
 		<Phone>602-325-9216</Phone>
 		<Phone>937-328-1601</Phone>
@@ -39,7 +39,7 @@
 			<State>AZ</State>
 			<Zip>85043</Zip>
 		</Address>
-	</Hotels>
+	</Hotel>
 	
 	<Hotel Rating="4.3">
 		<Name>Sentral Sol Modern</Name>
@@ -141,6 +141,7 @@
 	</Hotel>
 	
 </Hotels>
+
 
 
 
